@@ -7,4 +7,5 @@ Minehut:
   - minehut.com
   - api.minehut.com
 
-![image](https://github.com/snowypy/mhplus/assets/133208096/b32080e2-5372-48a8-8ed8-07af4d2d76c4)
+![image](https://github.com/Mia-s-Services/MinehutPlus/assets/166341506/931a2402-6446-4a3c-b9a3-26a069038a10)
+
